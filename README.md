@@ -44,7 +44,7 @@ This project uses the following technologies:
 Begin by cloning this project to your local machine using the following command:
 
 ```bash
-git clone https://github.com/yourusername/todo-api.git
+git clone (https://github.com/sasikumar057/ToDo.git)
 ```
 
 ## Step 2: Navigate to the project directory
@@ -52,7 +52,7 @@ git clone https://github.com/yourusername/todo-api.git
 Go to the project folder:
 
 ```bash
-cd <project_name>
+cd ToDo
 ```
 ## Step 3: Install dependencies
 
